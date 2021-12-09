@@ -17,3 +17,11 @@
 <img width="305" alt="2018Formatting" src="https://user-images.githubusercontent.com/93171738/145446820-dc8bd021-d87b-462a-9480-4296ec225b28.png">
 
 As we can see from the results the stocks in 2018 perfomred at a much lower level than the majority of stocks from 2017. From the information we can gather form our analysis it looks like the best stocks to invest in with the greatest opportunity of a positive return will be the "ENPH" and "RUN" stocks.
+
+### Summary
+
+  The advantages I found with refactorinig code were great. The first time I ran our analysis I kept getting error messages for the "yearValue" section of my code. The code would not run correctly and I found myself hitting a wall, which I could not overcome. 
+  
+  By going back over the code and working through it a second time through the refactoring process I was able to finally eliminate the error and my code eventually ran as it was suppsoed to.
+  
+  I can see and appreciate the value of refactoring code as it gives one an opporutnity to go over work that has already been completed with a fine tooth comb to make sure everything is working as it is supposde to. 
